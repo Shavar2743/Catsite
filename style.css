@@ -1,0 +1,95 @@
+body.w1 {
+    background-color: black;
+    color: rgb(210, 223, 34);
+    text-align: center;
+
+}
+
+body.w2 {
+    text-align: center;
+    background-color: black;
+    background-image: url("meine2.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    color: aqua;
+    font-size:xx-large
+}
+
+body.w3 {
+    text-align: center;
+    background-color: black;
+    background-image: url("3neu.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    color: aqua;
+    font-size:xx-large
+}
+
+body.w4 {
+    text-align: center;
+    background-color: black;
+    background-image: url("noppi.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    color: aqua;
+    font-size:xx-large
+}
+
+body.w5 {
+    text-align: center;
+    background-color: black;
+    background-image: url("morty.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    color: aqua;
+    font-size:xx-large
+}
+
+.video-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    background: #000;
+}
+
+
+.video-container video {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+ul {
+    list-style-type: none;
+    margin: 20px 0 0 20px;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    font-size: large;
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+  
+  li a {
+    display: block;
+    background-color: rgb(184, 183, 130);
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+
+  }
+
+  li a:hover {
+    background-color: #555;
+    color: rgb(224, 163, 163);
+  }
